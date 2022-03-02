@@ -42,6 +42,11 @@
         "level": "70"
       },
       {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
         "name": "TypeScript",
         "class": "devicon-typescript-plain",
         "level": "90"
@@ -80,6 +85,11 @@
         "name": "Knockout",
         "class": "devicon-knockout-plain-wordmark",
         "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
       },
       {
         "name": "Sass",
