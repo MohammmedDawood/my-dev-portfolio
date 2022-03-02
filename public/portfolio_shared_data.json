@@ -1,29 +1,19 @@
 {
   "basic_info": {
     "name": "Mohammed Dawood",
-    "titles": ["Full Stack Engineer", "Front-end Developer", "Back-end Developer", "Mobile App Developer"],
+    "titles": ["Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer"],
     "social": [{
-        "name": "facebook",
-        "url": "https://www.facebook.com/mohammed.ahmed.dawood",
-        "class": "fab fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/mahmedtony73",
-        "class": "fab fa-twitter"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/mohammeddawood95/",
-        "class": "fab fa-linkedin"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/MohammmedDawood",
+        "url": "https://github.com",
         "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
       }
     ],
-    "image": "myProfile.jpeg"
+    "image": "myProfile.jpg"
   },
   "skills": {
     "icons": [{
@@ -37,15 +27,9 @@
         "level": "95"
       },
       {
-        <<
-        << << < HEAD "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70" ===
-          === =
-          "name": "Angular",
+        "name": "Angular",
         "class": "devicon-angularjs-plain",
-        "level": "80" >>>
-          >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346
+        "level": "80"
       },
       {
         "name": "TypeScript",
@@ -53,45 +37,9 @@
         "level": "90"
       },
       {
-        <<
-        << << < HEAD "name": "React",
-        "class": "devicon-react-plain",
-        "level": "80"
-      },
-      {
-        "name": "Redux",
-        "class": "devicon-redux-original",
-        "level": "80"
-      },
-      {
-        "name": "NextJS",
-        "class": "devicon-nextjs-plain",
-        "level": "80"
-      },
-      {
-        "name": "Angular",
-        "class": "devicon-angularjs-plain",
-        "level": "80"
-      },
-      {
-        "name": "Vue",
-        "class": "devicon-vuejs-plain",
-        "level": "80"
-      },
-      {
-        "name": "NuxtJs",
-        "class": "devicon-nextjs-plain",
-        "level": "80"
-      },
-      {
-        "name": "Knockout",
-        "class": "devicon-knockout-plain-wordmark",
-        "level": "80" ===
-          === =
-          "name": "JavaScript",
+        "name": "JavaScript",
         "class": "devicon-javascript-plain",
-        "level": "70" >>>
-          >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346
+        "level": "70"
       },
       {
         "name": "Sass",
@@ -99,73 +47,14 @@
         "level": "75"
       },
       {
-        <<
-        << << < HEAD "name": "Tailwind CSS",
-        "class": "devicon-tailwindcss-plain",
-        "level": "75"
-      },
-      {
-        ===
-        === = >>>
-        >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346 "name": "Bootstrap",
+        "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
       },
       {
-        <<
-        << << < HEAD "name": "NodeJs",
-        "class": "devicon-nodejs-plain",
-        "level": "85"
-      },
-      {
-        "name": "ExpressJs",
-        "class": "devicon-express-original",
-        "level": "85"
-      },
-      {
-        "name": "AWS",
-        "class": "devicon-amazonwebservices-plain-wordmark",
-        "level": "85"
-      },
-      {
-        "name": "DigitalOcean",
-        "class": "devicon-digitalocean-plain",
-        "level": "85"
-      },
-      {
-        "name": "Docker",
-        "class": "devicon-docker-plain",
-        "level": "65"
-      },
-      {
-        "name": "Firebase",
-        "class": "devicon-firebase-plain",
-        "level": "65"
-      },
-      {
-        "name": "Heroku",
-        "class": "devicon-heroku-original",
-        "level": "65"
-      },
-      {
-        "name": "Git",
-        "class": "devicon-git-plain",
-        "level": "65"
-      },
-      {
-        "name": "MongoDB",
-        "class": "devicon-mongodb-plain",
-        "level": "65"
-      },
-      {
-        "name": "PostgreSQL",
-        "class": "devicon-postgresql-plain",
-        ===
-        === =
         "name": "C#",
         "class": "devicon-csharp-plain",
-        >>>
-        >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346 "level": "65"
+        "level": "65"
       },
       {
         "name": "MySql",
