@@ -37,9 +37,15 @@
         "level": "95"
       },
       {
-        "name": "JavaScript",
+        <<
+        << << < HEAD "name": "JavaScript",
         "class": "devicon-javascript-plain",
-        "level": "70"
+        "level": "70" ===
+          === =
+          "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80" >>>
+          >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346
       },
       {
         "name": "TypeScript",
@@ -47,7 +53,8 @@
         "level": "90"
       },
       {
-        "name": "React",
+        <<
+        << << < HEAD "name": "React",
         "class": "devicon-react-plain",
         "level": "80"
       },
@@ -79,7 +86,12 @@
       {
         "name": "Knockout",
         "class": "devicon-knockout-plain-wordmark",
-        "level": "80"
+        "level": "80" ===
+          === =
+          "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70" >>>
+          >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346
       },
       {
         "name": "Sass",
@@ -87,17 +99,21 @@
         "level": "75"
       },
       {
-        "name": "Tailwind CSS",
+        <<
+        << << < HEAD "name": "Tailwind CSS",
         "class": "devicon-tailwindcss-plain",
         "level": "75"
       },
       {
-        "name": "Bootstrap",
+        ===
+        === = >>>
+        >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346 "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
       },
       {
-        "name": "NodeJs",
+        <<
+        << << < HEAD "name": "NodeJs",
         "class": "devicon-nodejs-plain",
         "level": "85"
       },
@@ -144,7 +160,12 @@
       {
         "name": "PostgreSQL",
         "class": "devicon-postgresql-plain",
-        "level": "65"
+        ===
+        === =
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        >>>
+        >>> > 52840761 d2ac45264db12a4a4899bdacbb7e8346 "level": "65"
       },
       {
         "name": "MySql",
