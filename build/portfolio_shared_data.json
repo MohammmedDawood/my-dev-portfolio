@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "name": "Mohammed Dawood",
+    "titles": ["Full Stack Engineer", "Front-end Developer", "Back-end Developer", "Mobile App Developer"],
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/mohammed.ahmed.dawood",
+        "class": "fab fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mahmedtony73",
+        "class": "fab fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohammeddawood95/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MohammmedDawood",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpeg"
+  },
+  "skills": {
+    "icons": [{
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "80"
+      },
+      {
+        "name": "NextJS",
+        "class": "devicon-nextjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Vue",
+        "class": "devicon-vuejs-plain",
+        "level": "80"
+      },
+      {
+        "name": "NuxtJs",
+        "class": "devicon-nextjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Knockout",
+        "class": "devicon-knockout-plain-wordmark",
+        "level": "80"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Tailwind CSS",
+        "class": "devicon-tailwindcss-plain",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "NodeJs",
+        "class": "devicon-nodejs-plain",
+        "level": "85"
+      },
+      {
+        "name": "ExpressJs",
+        "class": "devicon-express-original",
+        "level": "85"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "85"
+      },
+      {
+        "name": "DigitalOcean",
+        "class": "devicon-digitalocean-plain",
+        "level": "85"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "65"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "65"
+      },
+      {
+        "name": "Heroku",
+        "class": "devicon-heroku-original",
+        "level": "65"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "65"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "65"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
