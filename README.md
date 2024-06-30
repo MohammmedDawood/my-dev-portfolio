@@ -18,7 +18,7 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://mohammmeddawood.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+Check live demonstration <a href="https://mohammmeddawood.github.io/my-dev-portfolio/"><strong>here</strong></a>
 
 <img width="100%" src="https://github.com/MohammmedDawood/my-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
 
@@ -31,8 +31,8 @@ Check live demonstration <a href="https://mohammmeddawood.github.io/react-fronte
 ```
 // package.json
 {
-  "name": "react-frontend-dev-portfolio",
-  "homepage": "https://mohammmeddawood.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "name": "my-dev-portfolio",
+  "homepage": "https://mohammmeddawood.github.io/my-dev-portfolio/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -64,7 +64,7 @@ homepage property or json data won't load.
 
 <h3>:gear: Contribution</h3>
 
-If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
+If you have any suggestions on what to improve in <em>my-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
 
 <h3>:camera: Credits(images)</h3>
 
